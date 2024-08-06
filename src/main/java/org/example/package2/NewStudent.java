@@ -19,5 +19,6 @@ public class NewStudent {
         System.out.println(newStudent2.age);
         System.out.println(newStudent2.name);
         System.out.println("Hello World");
+        System.out.println("New branch commit");
     }
 }
