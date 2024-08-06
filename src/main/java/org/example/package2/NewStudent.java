@@ -18,5 +18,6 @@ public class NewStudent {
         NewStudent newStudent2=new NewStudent(27,"Varadha");
         System.out.println(newStudent2.age);
         System.out.println(newStudent2.name);
+        System.out.println("Hello World");
     }
 }
